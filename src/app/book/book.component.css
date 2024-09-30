@@ -1,0 +1,29 @@
+.container {
+    max-width: 1280 px;
+    align-self: center;
+    padding: 1%;
+}
+
+.card {
+    padding: 2%;
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 1%;
+}
+
+ul.book-details {
+    list-style-type: none;
+}
+
+ul.book-details li{
+    display: inline;
+    margin-right: 2%;
+}
+
+.button-add {
+    background-color: black;
+    display: block;
+    width: 5%;
+}
+
